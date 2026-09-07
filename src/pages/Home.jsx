@@ -21,7 +21,7 @@ const services = [
   {
     title: 'Cleaning & Facility Services',
     desc: 'Ongoing site and facility cleaning contracts for commercial and residential clients, from routine upkeep to full facility management.',
-    img: null,
+    img: '/assets/Cleaning.jpg',
   },
 ]
 
